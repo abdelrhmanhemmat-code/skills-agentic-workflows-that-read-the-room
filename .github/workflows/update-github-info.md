@@ -32,16 +32,7 @@ Update `site/content/github-info.md` with concise,
 practical updates for readers and include source context when content comes
 from the GitHub Blog or GitHub Changelog.
 
-Open a pull request for Mona to review.
-Use a pull request title that mentions Mona or GitHub Info.
+Open a pull request for Mona to review. 
+Use a pull request title that mentions Mona or GitHub Info. 
 Do not write directly to `main`;
 rely on `safe-outputs` with `create-pull-request`.
-
-Check the syntax of the configuration for the agentic workflow is valid.
-
-Read external public guidance with web-fetch.
-
-Read repository guidance or reference files with GitHub repository API tools
-instead of terminal, CLI, or sandboxed commands.
-
-Don't compile the workflow.
